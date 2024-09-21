@@ -15,6 +15,4 @@ A cada biscoito uma frase diferente, tente sua sorte.
 
 
 ## Demonstração
-<video>
-        <source src="./assets/Demo-Biscoito-da-sorte.mp4" type="video/mp4">
-</video>
+![GIF do meu vídeo](./assets/Demo-Biscoito-da-sorte.gif)
