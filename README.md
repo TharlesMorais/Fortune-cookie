@@ -1,9 +1,9 @@
 
-# Biscoito da Sorte
-A cada biscoito uma frase diferente, tente sua sorte.
+# Fortune Cookie
+With each cookie a different phrase, try your luck.
 
 
-## 🛠 Habilidades
+## 🛠 Skills
 - Javascript 
 - HTML
 - CSS
@@ -14,5 +14,5 @@ A cada biscoito uma frase diferente, tente sua sorte.
 
 
 
-## Demonstração
+## Demonstration
 ![GIF do meu vídeo](./assets/Demo-Biscoito-da-sorte.gif)
